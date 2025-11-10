@@ -1,5 +1,3 @@
-![Banner](./banner.png)
-
 <h1 align="center">Hi 👋, I'm Kader Nafeez</h1>
 <h3 align="center">Blockchain | AI & Robotics Enthusiast | Intern in AI & ML @ VRS Technology</h3>
 
