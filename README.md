@@ -1,6 +1,6 @@
 ![Banner](./banner.png)
 
-<h1 align="center">Hi 👋, I'm Kader Nafees</h1>
+<h1 align="center">Hi 👋, I'm Kader Nafeez</h1>
 <h3 align="center">AI & Robotics Enthusiast | AI & ML @ VRS Technology</h3>
 
 <p align="center">
